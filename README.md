@@ -17,7 +17,7 @@ batch reports, or internal AUTHENTICA implementation code.
 - Algorithm: `Ed25519`
 - Active key id: `authentica-pilot-737817cd43fa1f63`
 - Public key DOI: `10.5281/zenodo.21270518`
-- Verification spec DOI: `10.5281/zenodo.21251473`
+- Verification spec DOI: `10.5281/zenodo.21723153`
 - Public verifier: `https://verify.aura-standard.org/web/`
 
 ## Revocation
@@ -27,5 +27,11 @@ trusted. Revocation metadata is published in `.well-known/aura/issuer.json`.
 
 ## Scope
 
-AURA evidence establishes timestamped, signed, independently verifiable technical
-claims. It does not decide legal ownership.
+AURA evidence establishes signed, independently verifiable technical claims. The
+issuance time is issuer-declared unless independent timestamp evidence is
+provided. It does not prove authorship, ownership, entitlement, grounding,
+citation or usage completeness.
+
+## License
+
+License: Apache-2.0. See `LICENSE`.

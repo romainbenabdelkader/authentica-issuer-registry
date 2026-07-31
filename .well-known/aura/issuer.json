@@ -22,8 +22,10 @@
       "public_key_fingerprint_sha3_256": "4b25f45389ce72ce42ee4bd7b8b0bb8570fd3486399fcd48c6c2c625b0c4658b"
     }
   ],
+  "canonical_url": "https://issuer.lockdna.tech/.well-known/aura/issuer.json",
+  "mirrors": [],
   "verification_spec_url": "https://issuer.lockdna.tech/.well-known/aura/aura-verification-spec-v1.0.md",
   "zenodo_public_key_doi": "10.5281/zenodo.21270518",
-  "zenodo_spec_doi": "10.5281/zenodo.21251473",
+  "zenodo_spec_doi": "10.5281/zenodo.21723153",
   "open_source_verifier_url": "https://verify.aura-standard.org/web/"
 }
