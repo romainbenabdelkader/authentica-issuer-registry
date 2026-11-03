@@ -29,9 +29,9 @@ versions and AURA-VERIFIER releases. Its historical standard reference is
 preserved; it does not describe every check added to later verifier versions.
 
 The published reference verifier is
-[AURA-VERIFIER v1.2.0](https://github.com/romainbenabdelkader/AURA-VERIFIER/releases/tag/v1.2.0),
-archived under [DOI 10.5281/zenodo.23857156](https://doi.org/10.5281/zenodo.23857156).
-Its [integrator guide](https://github.com/romainbenabdelkader/AURA-VERIFIER/blob/6b1a631a9febdd724cfa819c67ec9d285179c27c/INTEGRATORS.md)
+[AURA-VERIFIER v1.2.1](https://github.com/romainbenabdelkader/AURA-VERIFIER/releases/tag/v1.2.1),
+archived under [DOI 10.5281/zenodo.23898686](https://doi.org/10.5281/zenodo.23898686).
+Its [integrator guide](https://github.com/romainbenabdelkader/AURA-VERIFIER/blob/e1fa13c4fb253c2e07a99538524b869028bb62b4/INTEGRATORS.md)
 defines the implemented local key-status checks. AURA-STANDARD's latest
 archived release is [v1.2.1](https://doi.org/10.5281/zenodo.22071523), retaining
 manifest schemas 1.0 and 1.1. AURA verification does not require this particular
